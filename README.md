@@ -1,2 +1,2 @@
 # gfwlist
-base64 site： https://base64.supfree.net/
+base64 site： http://tool.oschina.net/encrypt?type=3
