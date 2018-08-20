@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Vao5wRLHY8vImF4DHojhCw
+! Checksum: Z+6CYulLFrYpimhncMK1eg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 Jul 2018 22:05:59 -0400
+! Last Modified: Sun, 12 Aug 2018 20:45:03 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -29,6 +29,7 @@
 ||assimp.org
 ||athenaeizou.com
 ||azubu.tv
+||bankmobilevibe.com
 ||banorte.com
 ||bash-hackers.org
 ||beeg.com
@@ -42,6 +43,7 @@
 ||casinobellini.com
 ||centauro.com.br
 ||chobit.cc
+||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
 ||costco.com
@@ -62,6 +64,7 @@ share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||dnvod.tv
+||dvdpac.com
 ||eesti.ee
 ||esurance.com
 .expekt.com
@@ -203,6 +206,7 @@ share.dmhy.org
 ||gsp.target.com
 ||login.target.com
 !--@@||intl.target.com
+||rcam.target.com
 ||thebodyshop-usa.com
 ||tma.co.jp
 ||tracfone.com
@@ -243,6 +247,7 @@ share.dmhy.org
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
+||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
 !-----------------DNS Poisoning-----------------
@@ -256,6 +261,7 @@ share.dmhy.org
 ||bird.so
 ||boomssr.com
 ||castbox.fm
+||cmcn.org
 ||cmx.im
 ||depositphotos.com
 ||fangeqiang.com
@@ -272,19 +278,30 @@ share.dmhy.org
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||mohu.club
 ||mohu.ml
 ||mastodon.host
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
+||nofile.io
+||now.com
 ||sukebei.nyaa.si
 ||onejav.com
 ||paste.ee
 ||my.pcloud.com
 ||picacomic.com
 ||pixiv.net
+||protonvpn.com
+||quora.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
+||redd.it
+||reddit.com
+||redditmedia.com
+||redditstatic.com
+||rsdlmonitor.com
+||shadowsocks.be
 ||shadowsocks9.com
 ||tn1.shemalez.com
 ||tn2.shemalez.com
@@ -292,12 +309,15 @@ share.dmhy.org
 ||static.shemalez.com
 ||sosreader.com
 ||sulian.me
+||teddysun.com
 ||textnow.me
 ||tineye.com
 ||tubepornclassic.com
 ||uku.im
 ||unseen.is
 ||cn.uptodown.com
+||uraban.me
+||vrsmash.com
 ||scache.vzw.com
 ||scache1.vzw.com
 ||scache2.vzw.com
@@ -328,7 +348,7 @@ share.dmhy.org
 .coinegg.com
 ||coinegg.com
 ||coinex.com
-|https://www.coinexchange.io/
+!--|https://www.coinexchange.io/
 ||coingi.com
 ||coinrail.co.kr
 ||cointobe.com
@@ -379,7 +399,9 @@ china-mmm.sa.com
 .now.im
 
 !!---Amazon---
+||amazon.co.jp
 .amazon.com/Dalai-Lama
+amazon.com/Prisoner-State-Secret-Journal-Premier
 s3-ap-northeast-1.amazonaws.com
 
 !!---AOL---
@@ -408,16 +430,21 @@ www.aolnews.com
 .tellme.pw
 
 !!---BBC---
-.bbc.co.uk/blogs
-.bbc.co.uk/chinese
-.bbc.co.uk/news/world-asia-china
-.bbc.co.uk/tv
-.bbc.co.uk/zhongwen
-.bbc.com/ukchina
-.bbc.com/zhongwen
-.bbc.com/zhongwen
-news.bbc.co.uk/onthisday*newsid_2496000/2496277
-newsforums.bbc.co.uk
+!--.bbc.co.uk/blogs
+!--.bbc.co.uk/chinese
+!--.bbc.co.uk/news/world-asia-china
+!--.bbc.co.uk/tv
+!--.bbc.co.uk/zhongwen
+!--.bbc.com/ukchina
+!--.bbc.com/zhongwen
+!--.bbc.com%2Fzhongwen
+!--news.bbc.co.uk/onthisday*newsid_2496000/2496277
+!--newsforums.bbc.co.uk
+.bbc.com
+||bbc.com
+.bbc.co.uk
+||bbc.co.uk
+||bbci.co.uk
 .bbcchinese.com
 ||bbcchinese.com
 |http://bbc.in
@@ -1066,9 +1093,9 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001077745
 .ftchinese.com/story/001077768
 .ftchinese.com/story/001077804
-.ftchinese.com/tag/åå«å±ä¸ä¸­å¨ä¼
-.ftchinese.com/tag/æ¸©å®¶å®
-.ftchinese.com/tag/èçæ¥
+.ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
+.ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
+.ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/video/2446
@@ -1712,9 +1739,15 @@ aiweiwei.com
 !!---Akamai---
 a248.e.akamai.net
 ||a248.e.akamai.net
+
+rfalive1.akacast.akamaistream.net
 voa-11.akacast.akamaistream.net
+
 !!--403
+||abematv.akamaized.net
 ||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
+
 |https://fbcdn*.akamaihd.net/
 !--||fbexternal-a.akamaihd.net
 !--||fbstatic-a.akamaihd.net
@@ -1761,7 +1794,6 @@ alwaysdata.com
 .alwaysvpn.com
 ||alwaysvpn.com
 ||am730.com.hk
-amazon.com/Prisoner-State-Secret-Journal-Premier
 ameblo.jp
 ||ameblo.jp
 www1.american.edu/ted/ice/tibet
@@ -2146,7 +2178,7 @@ breaking911.com
 ||breakingtweets.com
 ||breakwall.net
 briian.com/6511/freegate
-.briefdream.com/ç´ æ£º
+.briefdream.com/%E7%B4%A0%E6%A3%BA
 brizzly.com
 ||brizzly.com
 ||brkmd.com
@@ -2429,6 +2461,7 @@ chinese-memorial.org
 ||chinesegay.org
 .chinesen.de
 ||chinesen.de
+.chinesenews.net.au/
 .chinesepen.org
 .chinesetalks.net/ch
 ||chineseupress.com
@@ -2603,6 +2636,7 @@ cts.com.tw
 ||curvefish.com
 .cusu.hk
 ||cusu.hk
+.cutscenes.net
 .cw.com.tw
 ||cw.com.tw
 |http://forum.cyberctm.com
@@ -2922,7 +2956,7 @@ bitc.bme.emory.edu/~lzhou/blogs
 |http://emulefans.com
 .emuparadise.me
 .enanyang.my
-!--.enanyang.my/news/20170502/ç¾å½ä¹é³å¤§å°éãè¹æãç¬å®¶
+!--.enanyang.my/news/20170502/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E3%80%8A%E8%8B%B9%E6%9E%9C%E3%80%8B%E7%8B%AC%E5%AE%B6
 ||enewstree.com
 .enfal.de
 chinese.engadget.com
@@ -2979,9 +3013,11 @@ erabaru.net
 |http://eromon.net
 .eroprofile.com
 .eroticsaloon.net
-.eslite.com/product
-.eslite.com/Search_BW.aspx?q
-wiki.esu.im/è¤è¤è¯­å½
+.eslite.com
+||eslite.com
+!--.eslite.com/product
+!--.eslite.com/Search_BW.aspx?q
+wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 .etaa.org.au
 .etadult.com
 etaiwannews.com
@@ -3698,7 +3734,6 @@ echofon.com
 !-||r-chart.com
 !-||rameshsubramanian.org
 !-||rapid.pk
-!-||blog.reddit.com
 !-||blog.renanse.com
 !-||robertmao.com
 !-||www.romeo-foxtrot.com
@@ -5128,7 +5163,7 @@ nordvpn.com
 .news.now.com
 |http://news.now.com
 !--|http://news.now.com/home*
-news.now.com/home
+news.now.com%2Fhome
 ||nownews.com
 .nowtorrents.com
 .noypf.com
@@ -5357,8 +5392,8 @@ pengyulong.com
 penisbot.com
 ||blog.pentalogic.net
 .penthouse.com
-.pentoy.hk/ä¸­å
-.pentoy.hk/æäº
+.pentoy.hk/%E4%B8%AD%E5%9C%8B
+.pentoy.hk/%E6%99%82%E4%BA%8B
 .peoplebookcafe.com
 .peoplenews.tw
 ||peoplenews.tw
@@ -5424,6 +5459,8 @@ plays.com.tw
 ||m.plixi.com
 plm.org.hk
 plunder.com
+.plurk.com
+||plurk.com
 .plus28.com
 .plusbb.com
 .pmatehunter.com
@@ -5439,6 +5476,7 @@ pobieramy.top
 zh.pokerstrategy.com
 politicalchina.org
 politicalconsultation.org
+.politiscales.net
 ||poloniex.com
 .polymerhk.com
 |http://polymerhk.com
@@ -5750,7 +5788,8 @@ riku.me/
 |http://rthk.hk
 .rthk.org.hk
 |http://rthk.org.hk
-rti.org.tw
+.rti.org.tw
+||rti.org.tw
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
@@ -5932,10 +5971,10 @@ simplecd.org
 @@||simplecd.me
 simpleproductivityblog.com
 bbs.sina.com/
-bbs.sina.com/
+bbs.sina.com%2F
 blog.sina.com.tw
 dailynews.sina.com/
-dailynews.sina.com/
+dailynews.sina.com%2F
 forum.sina.com.hk
 home.sina.com
 ||magazines.sina.com.tw
@@ -6102,6 +6141,8 @@ spem.at
 ||ssh91.com
 .sspro.ml
 |http://sspro.ml
+.ssrshare.com
+||ssrshare.com
 ||sss.camp
 !--|http://cdn.sstatic.net/
 ||sstmlt.moe
@@ -6719,6 +6760,8 @@ twibase.com
 ||twibble.de
 twibbon.com
 ||twibs.com
+.twicountry.org
+|http://twicountry.org
 twicsy.com
 .twiends.com
 |http://twiends.com
@@ -6981,6 +7024,8 @@ vimeo.com
 ||vincnd.com
 ||vinniev.com
 |http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
+.virtualrealporn.com
+||virtualrealporn.com
 visibletweets.com
 |http://ny.visiontimes.com
 .vital247.org
@@ -7208,7 +7253,7 @@ wildammo.com
 .williamhill.com
 ||collateralmurder.com
 ||collateralmurder.org
-wikilivres.info/wiki/é¶å«å®ªç« 
+wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
 
 !-------------Wikipedia Related-------------
@@ -7392,6 +7437,7 @@ destiny.xfiles.to/ubbthreads
 ||xgmyd.com
 xhamster.com
 ||xhamster.com
+.xianba.net
 .xianchawang.net
 .xianjian.tw
 |http://xianjian.tw
@@ -7558,11 +7604,11 @@ zacebook.com
 .zalmos.com
 ||zalmos.com
 ||zannel.com
-!--.zaobao.com
-.zaobao.com.sg
+.zaobao.com
+||zaobao.com
+|http://zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
-!--.zdnet.com.tw/news/software/0,2000085678,20111187,00
 ||zdnet.com.tw
 .zello.com
 ||zello.com
@@ -7649,11 +7695,11 @@ freenet
 .google.*/falun
 phobos.apple.com*/video
 q=freedom
-q=freedom
+q%3Dfreedom
 remembering_tiananmen_20_years
 search*safeweb
 q=triangle
-q=Triangle
+q%3DTriangle
 ultrareach
 ultrasurf
 !#############Supplemental List End#############
@@ -7831,5 +7877,10 @@ ultrasurf
 ||rubiconproject.com
 ||3lift.com
 ||erodougazo.com
+||redditstatic.com
+||reddit.com
+||redditmedia.com
+||pubmatic.com
+||appier.net
 !################User-Defined List END##################
 !---------------------EOF-----------------------
