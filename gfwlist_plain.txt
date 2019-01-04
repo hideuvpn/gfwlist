@@ -7931,5 +7931,7 @@ ultrasurf
 ||ip138.com
 ||thesquirrelboard.com
 ||dmm.com
+||quora.com
+||quoracdn.net
 !################User-Defined List END##################
 !---------------------EOF-----------------------
