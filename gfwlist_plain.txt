@@ -8087,5 +8087,6 @@ ultrasurf
 ||cuntwars.com
 ||sascdn.com
 ||emxdgt.com
+||pximg.net
 !################User-Defined List END##################
 !---------------------EOF-----------------------
