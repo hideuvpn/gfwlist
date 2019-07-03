@@ -8088,5 +8088,6 @@ ultrasurf
 ||sascdn.com
 ||emxdgt.com
 ||pximg.net
+||pixiv.org
 !################User-Defined List END##################
 !---------------------EOF-----------------------
