@@ -8089,5 +8089,7 @@ ultrasurf
 ||emxdgt.com
 ||pximg.net
 ||pixiv.org
+||wikiwand.com
+||wikimedia.org
 !################User-Defined List END##################
 !---------------------EOF-----------------------
