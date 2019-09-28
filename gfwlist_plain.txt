@@ -8091,5 +8091,7 @@ ultrasurf
 ||pixiv.org
 ||wikiwand.com
 ||wikimedia.org
+||ipify.org
+||ipapi.co
 !################User-Defined List END##################
 !---------------------EOF-----------------------
