@@ -8099,5 +8099,10 @@ ultrasurf
 ||ipify.org
 ||ipapi.co
 ||nipponcolors.com
+||deviantart.com
+||deviantart.net
+||parastorage.com
+||wixmp.com
+||nr-data.net
 !################User-Defined List END##################
 !---------------------EOF-----------------------
