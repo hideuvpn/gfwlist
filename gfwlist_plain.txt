@@ -8160,5 +8160,6 @@ ultrasurf
 ||parastorage.com
 ||wixmp.com
 ||nr-data.net
+||rakuten.co.jp
 !################User-Defined List END##################
 !---------------------EOF-----------------------
