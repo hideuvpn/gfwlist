@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 41vcUoqMBGVsKTg5YDqunA
+! Checksum: I8Mh0dEJxBNsdZQka4RJug
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 08 Oct 2020 10:37:39 -0400
+! Last Modified: Tue, 20 Oct 2020 12:11:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4026,6 +4026,7 @@ greatfirewallofchina.org
 ||greatroc.tw
 .gts-vpn.com
 |http://gts-vpn.com
+||gtv.org
 .gu-chu-sum.org
 |http://gu-chu-sum.org
 .guaguass.com
