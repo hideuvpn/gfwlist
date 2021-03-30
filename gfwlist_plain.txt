@@ -8180,5 +8180,11 @@ ultrasurf
 ||nr-data.net
 ||rakuten.co.jp
 ||dribbble.com
+||steampowered.com
+||steamcommunity.com
+||ifsp.tv
+||mhcache.com
+||myheritage.com
+||githubusercontent.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
