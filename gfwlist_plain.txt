@@ -8186,5 +8186,6 @@ ultrasurf
 ||mhcache.com
 ||myheritage.com
 ||githubusercontent.com
+||afreecatv.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
