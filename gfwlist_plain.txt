@@ -8187,5 +8187,6 @@ ultrasurf
 ||myheritage.com
 ||githubusercontent.com
 ||afreecatv.com
+||monday.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
