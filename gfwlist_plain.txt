@@ -8447,5 +8447,6 @@ ultrasurf
 ||byteoversea.com
 ||tiktokcdn.com
 ||ibytedtos.com
+||iwara.tv
 !################User-Defined List END##################
 !---------------------EOF-----------------------
