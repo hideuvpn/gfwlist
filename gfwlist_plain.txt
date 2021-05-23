@@ -8449,5 +8449,6 @@ ultrasurf
 ||ibytedtos.com
 ||iwara.tv
 ||liaisoncas.com
+||9cache.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
