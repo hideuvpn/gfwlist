@@ -8450,5 +8450,6 @@ ultrasurf
 ||iwara.tv
 ||liaisoncas.com
 ||9cache.com
+||omegle.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
