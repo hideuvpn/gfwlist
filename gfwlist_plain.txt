@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +LLXKg/dPQQ02VKYB0yeDg
+! Checksum: R4yB3WmaCfQ/mvUVal4Izw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 22 Apr 2021 20:59:42 -0400
+! Last Modified: Sun, 30 May 2021 10:14:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1715,17 +1715,17 @@ iipdigital.usembassy.gov
 ||v2ex.com
 !--.v2ex.com
 !--Included in above rule: dns.v2ex.com
-@@|http://v2ex.com
-@@|http://cdn.v2ex.com
-@@|http://cn.v2ex.com
-@@|http://hk.v2ex.com
-@@|http://i.v2ex.com
-@@|http://lax.v2ex.com
-@@|http://neue.v2ex.com
-@@|http://pagespeed.v2ex.com
-@@|http://static.v2ex.com
-@@|http://workspace.v2ex.com
-@@|http://www.v2ex.com
+!--@@|http://v2ex.com
+!--@@|http://cdn.v2ex.com
+!--@@|http://cn.v2ex.com
+!--@@|http://hk.v2ex.com
+!--@@|http://i.v2ex.com
+!--@@|http://lax.v2ex.com
+!--@@|http://neue.v2ex.com
+!--@@|http://pagespeed.v2ex.com
+!--@@|http://static.v2ex.com
+!--@@|http://workspace.v2ex.com
+!--@@|http://www.v2ex.com
 
 !!---VOA---
 cn.voa.mobi
@@ -1851,6 +1851,7 @@ video.yahoo.com
 ||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
+||000webhost.com
 .030buy.com
 .0rz.tw
 |http://0rz.tw
@@ -2027,6 +2028,7 @@ activpn.com
 ||activpn.com
 ||aculo.us
 ||addictedtocoffee.de
+||addyoutube.com
 .adelaidebbs.com/bbs
 .adpl.org.hk
 |http://adpl.org.hk
@@ -2141,6 +2143,7 @@ androidplus.co/apk
 .andygod.com
 |http://andygod.com
 annatam.com/chinese
+||anchor.fm
 ||anchorfree.com
 !--GHS
 ||ancsconf.org
@@ -2149,7 +2152,6 @@ annatam.com/chinese
 angelfire.com/hi/hayashi
 ||angularjs.org
 animecrazy.net
-.animeshippuuden.com
 aniscartujo.com
 ||aniscartujo.com
 ||anobii.com
@@ -2238,7 +2240,7 @@ asg.to
 .asiaharvest.org
 ||asiaharvest.org
 ||asianage.com
-asianews.it
+||asianews.it
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
@@ -2293,6 +2295,7 @@ boxun*.azurewebsites.net
 !--------------------BB-------------------------
 ||b-ok.cc
 forum.baby-kingdom.com
+||babylonbee.com
 babynet.com.hk
 backchina.com
 ||backchina.com
@@ -2366,6 +2369,7 @@ beijingspring.com
 |http://bell.wiki
 bemywife.cc
 beric.me
+||berlinerbericht.de
 .berlintwitterwall.com
 ||berlintwitterwall.com
 .berm.co.nz
@@ -2729,6 +2733,7 @@ cdpwu.org
 ||channelnewsasia.com
 .chapm25.com
 .chaturbate.com
+||chaturbate.com
 .chuang-yen.org
 ||checkgfw.com
 chengmingmag.com
@@ -2926,6 +2931,7 @@ news.cnyes.com
 |http://goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
+||conoha.jp
 |http://tosh.comedycentral.com
 comefromchina.com
 ||comefromchina.com
@@ -3106,7 +3112,7 @@ dcmilitary.com
 .ddhw.info
 ||de-sci.org
 .de-sci.org
-packages.debian.org/zh-cn/lenny/gpass
+||deadline.com
 ||decodet.co
 
 !--Origin:cdn-i30$_
@@ -3409,6 +3415,7 @@ wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 etaiwannews.com
 ||etizer.org
 ||etokki.com
+||etsy.com
 !--.ettoday.net
 .ettoday.net/news/20151216/614081
 etvonline.hk
@@ -4686,14 +4693,15 @@ in-disguise.com
 ||incloak.com
 ||incredibox.fr
 ||independent.co.uk
+||indiablooms.com
 ||indiandefensenews.in
-timesofindia.indiatimes.com/dalai
-timesofindia.indiatimes.com/defaultinterstitial.cms
+||indianarrative.com
+||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
 info-graf.fr
 website.informer.com
-.initiativesforchina.org
+||initiativesforchina.org
 .inkui.com
 .inmediahk.net
 ||inmediahk.net
@@ -4922,6 +4930,7 @@ juziyue.com
 kanzhongguo.com
 kanzhongguo.eu
 .kaotic.com
+||kaotic.com
 ||karayou.com
 karkhung.com
 .karmapa.org
@@ -5265,6 +5274,8 @@ mcreasite.com
 ||meetup.com
 mefeedia.com
 jihadintel.meforum.org
+||mega.co.nz
+||mega.io
 ||mega.nz
 ||megaproxy.com
 ||megarotic.com
@@ -5366,6 +5377,7 @@ mirrorbooks.com
 mitbbsau.com
 .mixero.com
 ||mixero.com
+||mixi.jp
 mixpod.com
 .mixx.com
 ||mixx.com
@@ -5548,6 +5560,7 @@ nccwatch.org.tw
 ||neowin.net
 ||nepusoku.com
 ||net-fits.pro
+||netalert.me
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
@@ -5584,7 +5597,7 @@ newspeak.cc/story
 .newsdh.com
 ||newstamago.com
 ||newstapa.org
-newstarnet.com--NN--
+newstarnet.com
 ||newsweek.com
 .newtaiwan.com.tw
 newtalk.tw
@@ -5915,7 +5928,8 @@ perfectvpn.net
 .persiankitty.com
 pfd.org.hk
 phapluan.org
-phayul.com
+.phayul.com
+||phayul.com
 philborges.com
 philly.com
 ||phncdn.com
@@ -6567,6 +6581,7 @@ sis001.us
 ||sjum.cn
 ||sketchappsources.com
 ||skimtube.com
+||lab.skk.moe
 ||skybet.com
 |http://users.skynet.be/reves/tibethome.html
 .skyking.com.tw
@@ -6664,6 +6679,7 @@ soundofhope.org
 !-|http://sourceforge.net
 |http://sourceforge.net/p*/shadowsocksgui/
 .sourcewadio.com
+||south-plus.org
 southnews.com.tw
 sowers.org.hk
 ||wlx.sowiki.net
@@ -7552,6 +7568,7 @@ uygur.org
 ||v2ray.com
 ||v2raycn.com
 ||v2raytech.com
+||valeursactuelles.com
 .van001.com
 .van698.com
 .vanemu.cn
