@@ -8469,5 +8469,6 @@ ultrasurf
 ||9cache.com
 ||omegle.com
 ||paravi.jp
+||mercari.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
