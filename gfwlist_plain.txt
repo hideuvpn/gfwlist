@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: R4yB3WmaCfQ/mvUVal4Izw
+! Checksum: AIOwfHCXl/Qb/f5nuIFMRA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 30 May 2021 10:14:33 -0400
+! Last Modified: Mon, 27 Sep 2021 08:26:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -160,6 +160,7 @@ share.dmhy.org
 ||mvg.jp
 .mybet.com
 ||mybet.com
+||mypikpak.com
 ||nationwide.com
 |http://www.nbc.com/live
 ||neo-miracle.com
@@ -227,6 +228,7 @@ share.dmhy.org
 !--@@||intl.target.com
 ||rcam.target.com
 ||technews.tw
+||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
 ||tma.co.jp
@@ -279,6 +281,7 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 
 ||43110.cf
+||9cache.com
 ||9gag.com
 ||agro.hk
 ||share.america.gov
@@ -1313,6 +1316,7 @@ blogspot.com
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
+||chromeenterprise.google
 ||chromeexperiments.com
 ||chromercise.com
 ||chromestatus.com
@@ -1472,6 +1476,7 @@ blogspot.com
 ||api-verify.recaptcha.net
 ||redhotlabs.com
 ||registry.google
+||research.google
 ||safety.google
 ||savethedate.foo
 ||schema.org
@@ -1485,6 +1490,9 @@ blogspot.com
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.goog
+||translate.google
+||tv.google
 ||urchin.com
 !--||www.google
 ||waveprotocol.org
@@ -1975,6 +1983,7 @@ taiwannation.50webs.com
 89.64.charter.constitutionalism.solutions
 89-64.org
 ||89-64.org
+||8964museum.com
 .8news.com.tw
 .8z1.net
 ||8z1.net
@@ -2244,6 +2253,7 @@ asg.to
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
+||asiaone.com
 .asiatgp.com
 .asiatoday.us
 ||askstudent.com
@@ -2260,7 +2270,8 @@ atgfw.org
 .atlaspost.com
 ||atlaspost.com
 ||atdmt.com
-.atlanta168.com/forum
+.atlanta168.com
+||atlanta168.com
 .atnext.com
 ||atnext.com
 ice.audionow.com
@@ -2420,6 +2431,7 @@ ai.binwang.me/couplet
 .bit.ly
 |http://bit.ly
 !--||bitbucket.org
+||bitchute.com
 ||bitcointalk.org
 .bitshare.com
 ||bitshare.com
@@ -3553,11 +3565,13 @@ video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
+||feeder.co
 ||feelssh.com
 feer.com
 .feifeiss.com
 |http://feitianacademy.org
 .feitian-california.org
+||feixiaohao.com
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
@@ -3828,6 +3842,7 @@ gati.org.tw
 ||gazotube.com
 ||gcc.org.hk
 ||gclooney.com
+||gclubs.com
 ||gcmasia.com
 .gcpnews.com
 |http://gcpnews.com
@@ -3864,6 +3879,7 @@ getiton.com
 ||getmalus.com
 .getsocialscope.com
 ||getsync.com
+||gettr.com
 gfbv.de
 .gfgold.com.hk
 .gfsale.com
@@ -3891,8 +3907,9 @@ gigporno.ru
 
 !---GitHub---
 ||github.blog
-github.com/getlantern
-|https://gist.github.com
+||github.com
+!--github.com/getlantern
+!--|https://gist.github.com
 !--http://cthlo.github.io/hktv
 !--hahaxixi.github.io
 !--|https://hahaxixi.github.io
@@ -4369,6 +4386,7 @@ heqinglian.net
 ||hexieshe.xyz
 !--Google employee within Google IP
 ||hexxeh.net
+||heyuedi.com
 app.heywire.com
 .heyzo.com
 .hgseav.com
@@ -5595,6 +5613,7 @@ newspeak.cc/story
 ||newsancai.com
 .newsdetox.ca
 .newsdh.com
+||newsmax.com
 ||newstamago.com
 ||newstapa.org
 newstarnet.com
@@ -5606,6 +5625,7 @@ newtalk.tw
 newyorktimes.com
 ||nexon.com
 .next11.co.jp
+||nextdigital.com.hk
 .nextmag.com.tw
 
 !--hk*.nextmedia.com
@@ -5619,6 +5639,7 @@ nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
 ngensis.com
+||ngodupdongchung.com
 .nhentai.net
 |http://nhentai.net
 .nhk-ondemand.jp
@@ -5728,6 +5749,7 @@ occupytiananmen.com
 oclp.hk
 .ocreampies.com
 ||october-review.org
+||odysee.com
 offbeatchina.com
 ||officeoftibet.com
 |http://ofile.org
@@ -6010,6 +6032,7 @@ politicalconsultation.org
 .popo.tw
 !--||popularpages.net
 ||popvote.hk
+||popxi.click
 .popyard.com
 ||popyard.org
 .porn.com
@@ -6143,6 +6166,7 @@ psblog.name
 .putihome.org
 .putlocker.com/file
 pwned.com
+||pximg.net
 python.com
 .python.com.tw
 |http://python.com.tw
@@ -6229,6 +6253,7 @@ rapidvpn.com
 |http://raremovie.cc
 .raremovie.net
 |http://raremovie.net
+||rationalwiki.org
 ||rawgit.com
 ||rawgithub.com
 !--.rayfme.com/bbs
@@ -6360,6 +6385,7 @@ cdn1.lp.saboom.com
 sacom.hk
 ||sacom.hk
 ||sadpanda.us
+||safechat.com
 .safervpn.com
 ||safervpn.com
 .saintyculture.com
@@ -6470,6 +6496,7 @@ shadow.ma
 ||shadowsocks.org
 ||shadowsocks-r.com
 |http://cn.shafaqna.com
+||shahit.biz
 .shambalapost.com
 .shambhalasun.com
 .shangfang.org
@@ -6959,6 +6986,7 @@ theblemish.com
 |http://thedalailamamovie.com
 ||thediplomat.com
 ||thedw.us
+!--||thefreeland.club
 thefrontier.hk/tf
 ||theguardian.com
 ||thegay.com
@@ -7134,6 +7162,7 @@ tintuc101.com
 |http://tiny.cc
 tinychat.com
 ||tinypaste.com
+||tipas.net
 .tistory.com
 ||tkcs-collins.com
 .tmagazine.com
@@ -7174,8 +7203,10 @@ top81.ws
 ||toptip.ca
 tora.to
 .torcn.com
+||torlock.com
 .torproject.org
 ||torproject.org
+||torrentkitty.tv
 torrentprivacy.com
 ||torrentprivacy.com
 |http://torrentproject.se
@@ -7502,6 +7533,7 @@ underwoodammo.com
 ||unknownspace.org
 .unodedos.com
 unpo.org
+||unstable.icu
 .untraceable.us
 |http://untraceable.us
 ||uocn.org
@@ -7857,6 +7889,7 @@ winwhispers.info
 .wisdompubs.org
 .wisevid.com
 ||wisevid.com
+||whispersystems.org
 .witnessleeteaching.com
 .witopia.net
 .wjbk.org
@@ -7945,6 +7978,7 @@ wukangrui.net
 wzyboy.im/post/160
 
 !--------------------XX-------------------------
+||x.co
 .x-berry.com
 ||x-berry.com
 ||x-art.com
