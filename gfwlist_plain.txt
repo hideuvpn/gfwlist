@@ -8470,5 +8470,8 @@ ultrasurf
 ||omegle.com
 ||paravi.jp
 ||mercari.com
+||tradingview.com
+||bnbstatic.com
+||localbitcoins.net
 !################User-Defined List END##################
 !---------------------EOF-----------------------
