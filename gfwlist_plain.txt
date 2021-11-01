@@ -8507,5 +8507,6 @@ ultrasurf
 ||tradingview.com
 ||bnbstatic.com
 ||localbitcoins.net
+||avedex.cc
 !################User-Defined List END##################
 !---------------------EOF-----------------------
