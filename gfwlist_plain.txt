@@ -8552,5 +8552,6 @@ ultrasurf
 ||braze.com
 ||roblox.com
 ||rbxcdn.com
+||zaif.jp
 !################User-Defined List END##################
 !---------------------EOF-----------------------
