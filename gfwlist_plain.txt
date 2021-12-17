@@ -8532,5 +8532,25 @@ ultrasurf
 ||avedex.cc
 ||linkedin.com
 ||licdn.com
+||aiv-cdn.net
+||aiv-cdn.net.c.footprint.net
+||aiv-delivery.net
+||amazonvideo.com
+||atv-ext.amazon.com
+||atv-ps.amazon.com
+||media-amazon.com
+||primevideo.com
+||cloudfront.net
+||disney-plus.net
+||disneyplus.com
+||disneyplus.com.ssl.sc.omtrdc.net
+||dssott.com
+||dssott.com.akamaized.net
+||bamgrid.com
+||cdn.registerdisney.go.com
+||cws.conviva.com
+||braze.com
+||roblox.com
+||rbxcdn.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
