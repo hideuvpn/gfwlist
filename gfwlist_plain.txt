@@ -8618,5 +8618,6 @@ ultrasurf
 ||tiktokv.com
 ||solana.com  
 ||ethereum.org
+||hiccears.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
