@@ -8616,5 +8616,7 @@ ultrasurf
 ||opensea.io
 ||amzn.to
 ||tiktokv.com
+||solana.com  
+||ethereum.org
 !################User-Defined List END##################
 !---------------------EOF-----------------------
