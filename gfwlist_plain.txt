@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jWsiTfseuK01rDgvDIzU3A
+! Checksum: r4SYSZr5/Ull/SHPPTQ/mg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 16 Aug 2022 11:38:52 -0400
+! Last Modified: Sat, 29 Oct 2022 22:47:21 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2044,6 +2044,7 @@ abclite.net
 ||aboluowang.com
 .aboutgfw.com
 .abs.edu
+||acast.com
 .accim.org
 .aceros-de-hispania.com
 .acevpn.com
@@ -2478,6 +2479,7 @@ tor.blingblingsquad.net
 blinw.com
 .blip.tv
 ||blip.tv/
+||blockcast.it
 .blockcn.com
 ||blockcn.com
 ||blockedbyhk.com
@@ -2510,6 +2512,7 @@ blueangellive.com
 .bmfinn.com
 .bnews.co
 ||bnews.co
+||bnext.com.tw
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
@@ -3022,6 +3025,7 @@ creaders.net
 ||creaders.net
 .creadersnet.com
 ||cristyli.com
+||croxyproxy.com
 .crocotube.com
 |http://crocotube.com
 .crossthewall.net
@@ -3394,7 +3398,7 @@ bitc.bme.emory.edu/~lzhou/blogs
 ||encrypt.me
 ||enewstree.com
 .enfal.de
-chinese.engadget.com
+||chinese.engadget.com
 ||engagedaily.org
 englishforeveryone.org
 ||englishfromengland.co.uk
@@ -3644,6 +3648,7 @@ finler.net
 .firetweet.io
 ||firetweet.io
 ||firstpost.com
+||firstrade.com
 !--||flagfox.net
 .flagsonline.it
 fleshbot.com
@@ -4767,6 +4772,7 @@ website.informer.com
 .inote.tw
 .insecam.org
 |http://insecam.org
+||inside.com.tw
 ||insidevoa.com
 .institut-tibetain.org
 |http://internet.org/
@@ -4900,6 +4906,7 @@ jeanyim.com
 .jiangweiping.com
 ||jiangweiping.com
 ||jiaoyou8.com
+||jichangtj.com
 .jiehua.cz
 ||hk.jiepang.com
 ||tw.jiepang.com
@@ -4957,6 +4964,7 @@ jpopforum.net
 .juoaa.com
 |http://juoaa.com
 justfreevpn.com
+||justhost.ru
 .justicefortenzin.org
 justpaste.it
 ||justmysocks1.net
@@ -5156,7 +5164,7 @@ letscorp.net
 ||liberal.org.hk
 .libertytimes.com.tw
 blogs.libraryinformationtechnology.com/jxyz
-.lidecheng.com/blog/fucking-gfw
+||libredd.it
 .lighten.org.tw
 .lightnovel.cn
 @@|https://www.lightnovel.cn
@@ -5794,6 +5802,7 @@ nylonstockingsonline.com
 ||nzchinese.net.nz
 
 !--------------------OO-------------------------
+||oann.com
 observechina.net
 .obutu.com
 ocaspro.com
@@ -5818,7 +5827,7 @@ oizoblog.com
 ||ok.ru
 .okayfreedom.com
 ||okayfreedom.com
-okk.tw
+||okk.tw
 |http://filmy.olabloga.pl/player
 old-cat.net
 ||olevod.com
@@ -6003,10 +6012,9 @@ penisbot.com
 ||peopo.org
 .percy.in
 .perfectgirls.net
-perfectvpn.net
+||perfect-privacy.com
 .persecutionblog.com
 .persiankitty.com
-pfd.org.hk
 phapluan.org
 .phayul.com
 ||phayul.com
@@ -6875,6 +6883,7 @@ tw.streetvoice.com
 ||studentsforafreetibet.org
 ||stumbleupon.com
 stupidvideos.com
+||substack.com
 .successfn.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
@@ -7689,6 +7698,7 @@ vansky.com
 .venetianmacao.com
 ||venetianmacao.com
 veoh.com
+||vercel.app
 mysite.verizon.net
 vermonttibet.org
 .versavpn.com
@@ -7699,7 +7709,7 @@ vermonttibet.org
 ||viber.com
 .vica.info
 .victimsofcommunism.org
-|http://victimsofcommunism.org
+||victimsofcommunism.org
 ||vid.me
 ||vidble.com
 videobam.com
@@ -7727,6 +7737,7 @@ visibletweets.com
 .vital247.org
 ||viu.com
 .vivahentai4u.net
+||vivaldi.com
 .vivatube.com
 .vivthomas.com
 ||vivthomas.com
@@ -8393,7 +8404,7 @@ ultrasurf
 @@||khm3.googleapis.com
 @@||khmdb.googleapis.com
 @@||storage.googleapis.com
-@@||translate.googleapis.com
+!--@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
@@ -8619,5 +8630,7 @@ ultrasurf
 ||solana.com  
 ||ethereum.org
 ||hiccears.com
+||meta.com
+||fbthirdpartypixel.com
 !################User-Defined List END##################
 !---------------------EOF-----------------------
