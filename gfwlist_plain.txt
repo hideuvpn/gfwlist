@@ -8407,7 +8407,6 @@ ultrasurf
 @@||khm3.googleapis.com
 @@||khmdb.googleapis.com
 @@||storage.googleapis.com
-!--@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
