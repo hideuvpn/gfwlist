@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: r4SYSZr5/Ull/SHPPTQ/mg
+! Checksum: zuyO6VGMyQfDA+wtpO5tzw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 29 Oct 2022 22:47:21 -0400
+! Last Modified: Mon, 14 Nov 2022 00:20:44 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2586,7 +2586,8 @@ brucewang.net
 ||bt95.com
 .btaia.com
 .btbtav.com
-|http://btdigg.org
+||btdig.com
+||btdigg.org
 .btku.me
 ||btku.me
 ||btku.org
@@ -2595,9 +2596,7 @@ brucewang.net
 .budaedu.org
 ||budaedu.org
 .buddhanet.com.tw/zfrop/tibet
-.buddhistchannel.tv
-.buffered.com
-|http://buffered.com
+||buffered.com
 ||bullguard.com
 .bullog.org
 ||bullog.org
@@ -4563,6 +4562,7 @@ hongmeimei.com
 .hornytrip.com
 |http://hornytrip.com
 ||horrorporn.com
+||hostloc.com
 ||hotair.com
 .hotav.tv
 .hotels.cn
@@ -5865,6 +5865,7 @@ openid.net
 ||openid.net
 .openleaks.org
 ||openleaks.org
+||openstreetmap.org
 ||opentech.fund
 openvpn.net
 ||openvpn.net
@@ -6384,17 +6385,18 @@ rfaweb.org
 ||rferl.org
 .rfi.fr
 ||rfi.fr
-|http://rfi.my/
+||rfi.my
 !--.rhcloud.com
 !--Edgecast
 |http://vds.rightster.com/
 .rigpa.org
 .rileyguide.com
-riku.me/
+||riku.me
 .ritouki.jp
 ||ritter.vg
 .rlwlw.com
 ||rlwlw.com
+||rmbl.ws
 .rmjdw.com
 .rmjdw132.info
 .roadshow.hk
@@ -6434,6 +6436,7 @@ riku.me/
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
 ||rule34.xxx
+||rumble.com
 .runbtx.com
 .rushbee.com
 ||rusvpn.com
